@@ -56,6 +56,7 @@ div#slider figure {
 		<img src="assets/images/slider05.jpg" alt>
 		<img src="assets/images/slider04.jpg" alt>
 		<img src="assets/images/slider05.jpg" alt>
+		<img src="assets/images/slider05.jpg" alt>
 	</figure>
 </div>
 
