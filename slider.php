@@ -47,7 +47,6 @@ div#slider figure {
     animation: 10s slidy infinite;  
 }
 </style>
-
 <div id="slider">
 	<figure>
     <img src="assets/images/slider01.jpg" alt>
